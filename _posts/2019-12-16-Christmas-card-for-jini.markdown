@@ -4,7 +4,7 @@ title:  "Merry Christmas"
 date:   2019-12-16 21:36:00 +0900
 categories: jekyll update
 ---
-![Image Alt 메리크리스마스](/post/asset/merrychristmas.jpg)
+![Image Alt 메리크리스마스](/asset/merrychristmas.jpg)
 
 ## **Merry Christmas**
 
